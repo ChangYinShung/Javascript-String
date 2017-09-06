@@ -1,7 +1,7 @@
 {
   "name": "yc-string-format",
   "description": "this is simple string extendtion",
-  "main": [ "./dist/StringFormat.js", "./dist/StringFormat.min.js" ],
+  "main": "./dist/StringFormat.js",
   "authors": [
     "YC"
   ],
