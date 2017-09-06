@@ -1,0 +1,22 @@
+{
+  "name": "yc-string-format",
+  "description": "this is simple string extendtion",
+  "main": [ "./dist/StringFormat.js", "./dist/StringFormat.min.js" ],
+  "authors": [
+    "YC"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "js",
+    "string",
+    "stringformat"
+  ],
+  "homepage": "https://github.com/ChangYinShung/Javascript-String",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

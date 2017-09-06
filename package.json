@@ -1,0 +1,24 @@
+{
+  "name": "yc-string-format",
+  "version": "1.0.0",
+  "description": "this is simple string extendtion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChangYinShung/Javascript-String.git"
+  },
+  "keywords": [
+    "js",
+    "string",
+    "stringformat"
+  ],
+  "author": "YC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChangYinShung/Javascript-String/issues"
+  },
+  "homepage": "https://github.com/ChangYinShung/Javascript-String#readme"
+}
