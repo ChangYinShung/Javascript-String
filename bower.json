@@ -2,6 +2,7 @@
   "name": "yc-string-format",
   "description": "this is simple string extendtion",
   "main": "./dist/StringFormat.js",
+  "version": "1.0",
   "authors": [
     "YC"
   ],
