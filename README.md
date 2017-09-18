@@ -1,6 +1,9 @@
 # Javascript-String
 Javascript-String helper  
   
+```javascript
+bower install yc-stringformat --save
+```  
 #Usage
 ```javascript
   var foo = "This is string format : {0}";
